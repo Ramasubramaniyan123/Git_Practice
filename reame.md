@@ -1,2 +1,0 @@
-# Git course
-hello welcome 
